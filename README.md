@@ -13,7 +13,7 @@
 
 ---
 
-myHobbies = [
+- myHobbies = [
   Programming,
   Hacking,
   Japan,
