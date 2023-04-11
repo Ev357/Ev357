@@ -14,9 +14,9 @@
 ---
 
 - myHobbies = [<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programming,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hacking,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Japan,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anime,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Genshin<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programming,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hacking,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Japan,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anime,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Genshin<br />
 ]
