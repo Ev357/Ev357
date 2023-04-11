@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 - 🔭 I’m currently working on my new website.
 - 🌱 I’m currently learning 日本語。
 - 👯 I’m looking to collaborate on \_\_string\_\_.
@@ -8,3 +10,13 @@
 - 📫 How to reach me: evest.tech@gmail.com.
 - 😄 Pronouns: _Eve_.
 - ⚡ Fun fact: I'm French.
+
+---
+
+myHobbies = [
+  Programming,
+  Hacking,
+  Japan,
+  Anime,
+  Genshin
+]
