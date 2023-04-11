@@ -13,10 +13,10 @@
 
 ---
 
-- myHobbies = [
-  Programming,
-  Hacking,
-  Japan,
-  Anime,
-  Genshin
+- myHobbies = [<br />
+Programming,<br />
+Hacking,<br />
+Japan,<br />
+Anime,<br />
+Genshin<br />
 ]
