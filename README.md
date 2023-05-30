@@ -20,3 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Anime_,<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Genshin_<br />
 ]
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ev357&show_icons=true&theme=radical)
