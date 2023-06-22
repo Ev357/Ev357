@@ -14,11 +14,11 @@
 ---
 
 - myHobbies = [<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Programming_,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Hacking_,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Japan_,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Anime_,<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Genshin_<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"Programming"_,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"Hacking"_,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"Japan"_,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"Anime"_,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_"Genshin"_<br />
 ]
 
 ---
