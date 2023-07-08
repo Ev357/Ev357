@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with _\_\_string\_\__.
 - 💬 Ask me about _*_.
 - 📫 How to reach me: _evest.tech@gmail.com_.
-- 😄 Pronouns: _Eve_.
+- 😄 Pronouns: _Who_.
 - ⚡ Fun fact: _I'm French_.
 
 ---
