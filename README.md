@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on _\_\_string\_\__.
 - 🤔 I’m looking for help with _\_\_string\_\__.
 - 💬 Ask me about _*_.
-- 📫 How to reach me: _evest.tech@gmail.com_.
+- 📫 How to reach me: _evest@evest.dev_.
 - 😄 Pronouns: _Who_.
 - ⚡ Fun fact: _I'm French_.
 
