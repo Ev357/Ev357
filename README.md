@@ -15,10 +15,9 @@
 
 - myHobbies = [<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"_Programming_",<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"_Hacking_",<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"_Ethical Hacking_",<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"_Japan_",<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"_Anime_",<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"_Genshin_"<br />
 ]
 
 ---
