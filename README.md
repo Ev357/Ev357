@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working _on my new website_.
+- 🔭 I’m currently working _on nothing_.
 - 🌱 I’m currently learning _日本語。_
 - 👯 I’m looking to collaborate on _\_\_string\_\__.
 - 🤔 I’m looking for help with _\_\_string\_\__.
