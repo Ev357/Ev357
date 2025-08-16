@@ -1,1 +1,1 @@
-![stats](https://github-readme-stats.vercel.app/api?username=Ev357&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=Ev357&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)
